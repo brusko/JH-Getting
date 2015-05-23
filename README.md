@@ -1,3 +1,5 @@
+## README
+
 The dataset are the results of experiments that have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
@@ -15,9 +17,10 @@ From each window, a vector of features was obtained by calculating variables fro
 
 Our job was to:  
 	1. Merge the training and the test sets to create one data set.  
-	2. Extract only the measurements on the mean and standard deviation for each measurement.  
-	3. Use descriptive activity names to name the activities in the data set.  
+	2. Extract only the measurements on the mean and standard deviation for each measurement.  
+	3. Use descriptive activity names to name the activities in the data set.    
 	4. Appropriately label the data set with descriptive variable names.  
-	5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
+	5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
 
+The tidy data table was created two ways, table_wide is the wide-tidy table and table_long is the long tidy-data table.
