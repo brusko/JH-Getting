@@ -13,11 +13,11 @@ The sensor acceleration signal, which has gravitational (Noise) and body motion 
 From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
 
 
-Our job was to:
-	1. Merge the training and the test sets to create one data set.
-	2. Extract only the measurements on the mean and standard deviation for each measurement. 
-	3. Use descriptive activity names to name the activities in the data set
-	4. Appropriately label the data set with descriptive variable names. 
+Our job was to:  
+	1. Merge the training and the test sets to create one data set.  
+	2. Extract only the measurements on the mean and standard deviation for each measurement.  
+	3. Use descriptive activity names to name the activities in the data set.  
+	4. Appropriately label the data set with descriptive variable names.  
 	5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
