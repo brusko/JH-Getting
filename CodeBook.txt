@@ -1,4 +1,6 @@
-Code Book
+## Code Book
+
+Data was separated into a training and a test dataset. They were combined.
 
 Activity Labels
 =================
